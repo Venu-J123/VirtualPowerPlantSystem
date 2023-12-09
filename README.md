@@ -9,7 +9,7 @@
 
 <body>
 
-  <h1>Virtual Power Plant System</h1>
+  <h1 >Virtual Power Plant System</h1>
 
   <h2>Overview</h2>
 
